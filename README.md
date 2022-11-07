@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md Jahidul Islam Riyad</h1>
-<h3 align="center">I am passionate in machine learning.</h3>
-<img align ="right" alt ="coding" width ="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">I am passionate in machine learning/Ai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyad186&label=Profile%20views&color=0e75b6&style=flat" alt="riyad186" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyad186" alt="riyad186" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
